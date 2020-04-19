@@ -217,12 +217,12 @@ const IndexPage = () => (
     <Section id="education" title="Education">
       <Entry
         title="Diploma / Mag. (FH) in Management & Applied Informatics"
-        link="https://mci.edu/"
         timeSpan="2004 – 2008"
       >
-        I studied Management & Applied Informatics at Management Center Innsbruck (with a semester
-        abroad in Brisbane, Australia) and graduated with a diploma in 2008. My thesis analyzed
-        usability concerns for websites with heterogeneous target groups.
+        I studied Management & Applied Informatics at <a href="https://mci.edu/" target="_blank"
+        rel="noopener noreferrer">Management Center Innsbruck</a> (with a semester abroad at the
+        University of Queensland in Brisbane, Australia) and graduated with a diploma in 2008. My
+        thesis analyzed usability concerns for websites with heterogeneous target groups.
       </Entry>
     </Section>
     <Section id="skills" title="Skills">
