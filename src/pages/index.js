@@ -148,6 +148,15 @@ const IndexPage = () => (
       />
       <Entry title="Data Stores" desc="PostreSQL, Redis, MySQL, MongoDB" />
     </Section>
+    <Section id="imprint" title="Imprint / Impressum">
+      <p>
+        Clemens Kofler<br />
+        Karl-Innerebner-Str. 91a/7<br />
+        6020 Innsbruck<br />
+        Austria
+      </p>
+      <p>Email: <a href="mailto:mail@clemenskofler.com">mail@clemenskofler.com</a></p>
+    </Section>
   </Layout>
 );
 

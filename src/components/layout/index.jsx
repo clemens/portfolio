@@ -10,7 +10,13 @@ import "./global.css";
 const Layout = ({ children }) => {
   return (
     <div>
-      <Container>{children}</Container>
+      <Container>
+        {children}
+        <p className={classes.copyright}>
+          Source: <a href="https://github.com/clemens/portfolio" target="_blank">GitHub</a>;
+          Layout by <a href="https://github.com/ryanFitzgerald/portfolio" target="_blank">Ryan Fitzgerald</a>. Thanks for releasing this under MIT, Ryan!
+        </p>
+      </Container>
       <div className={classes.blobMain}>
         <svg
           width="600"
