@@ -1,12 +1,12 @@
 import React from "react";
 
-import classes from "./link.module.css";
+import classes from "./entry.module.css";
 
-const Link = ({ desc, link = false, title }) => {
+const Entry = ({ desc, link = false, title }) => {
   return (
     <div className={classes.wrapper}>
       {link ? (
-        <a className={classes.linkTitle} href={link}>
+        <a className={classes.entryTitle} href={link}>
           {title}
         </a>
       ) : (
@@ -18,4 +18,4 @@ const Link = ({ desc, link = false, title }) => {
   );
 };
 
-export default Link;
+export default Entry;
