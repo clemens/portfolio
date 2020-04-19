@@ -9,7 +9,7 @@ import SEO from "../components/seo";
 const IndexPage = () => (
   <Layout>
     <Header />
-    <SEO title="Ryan Fitzgerald" />
+    <SEO title="Clemens Kofler" />
     <Section id="about" title="About Me">
       <p>
         I'm a motivated full-stack engineer who has experience building and
