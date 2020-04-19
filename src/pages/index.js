@@ -12,12 +12,14 @@ const IndexPage = () => (
     <SEO title="Clemens Kofler" />
     <Section id="about" title="About Me">
       <p>
-        I'm a seasoned technologist and entrepreneur with almost 15 years experience of building
-        solutions for various startups (including my own) as well as small and mid-sized companies.
+        I'm a seasoned technologist and entrepreneur with ~15 years of professional experience in
+        building solutions for various startups (including my own) as well as small and mid-sized
+        companies.
       </p>
       <p>
-        I'm also passionate about open source contributions and I've authored and contributed to
-        multiple open source projects, including Ruby on Rails and Ruby internationalization (i18n).
+        I'm also passionate about open source contributions. I've authored and contributed to 
+        multiple open source projects since 2007, including the Ruby on Rails framework and the Ruby
+        internationalization (i18n) package.
       </p>
     </Section>
     <Section id="experience" title="Experience">
