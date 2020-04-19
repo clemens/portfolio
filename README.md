@@ -1,8 +1,9 @@
-![Ryan Fitzgerald](http://ryanfitzgerald.ca/static/social-9c27a8e483336a4d87c8117291b19e69.jpg)
-
-# Personal Portfolio Site for Ryan Fitzgerald
+# Personal Portfolio Site for Clemens Kofler
 
 Personal site built using
+
 - React
 - GatsbyJS
 - Netlify
+
+Forked from https://github.com/ryanFitzgerald/portfolio.
