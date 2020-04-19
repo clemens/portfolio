@@ -53,28 +53,37 @@ const IndexPage = () => (
         link="https://codeship.com/"
         timeSpan="May 2014 – June 2016"
       >
-        Continuous Integration & Delivery platform; I supported CodeShip from May 2014 until June
-        2016 mainly with backend development.
+        CodeShip is a continuous integration & delivery platform. I supported them from May 2014
+        until June 2016 on their way to their Series A fundraising round mainly with backend
+        development.
       </Entry>
       <Entry
-        title="Mobilityhouse"
+        title="The Mobility House"
         link="https://www.mobilityhouse.com/"
         timeSpan="2014 – 2016"
       >
-        Provider of e-mobility solutions; I supported TMH as a lead architect and developer on 2
-        large-scale projects from 2014 until 2016.
+        The Mobility House (TMH) is a provider of e-mobility solutions. I supported TMH as a lead
+        architect and developer on 2 large-scale projects from 2014 until 2016.
       </Entry>
       <Entry
         title="bergshop.com"
         link="https://bergshop.com/"
         timeSpan="2012 – 2014"
-      >I built this online shop based on the Spree Commerce platform for a friend.</Entry>
+      >
+        bergshop.com is an online shop selling gear for climbing, mountaineering and other outdoor
+        equipment. The shop is operated by a friend of mine and I built their shop based on the
+        Spree Commerce platform, authoring 3 Spree plugins (
+          <a href="https://github.com/clemens/spree_campaigns" target="_blank">coupon campaigns</a>, <a
+          href="https://github.com/clemens/spree_paypal_website_payments_standard" target="_blank">PayPal integration</a>, <a
+          href="https://github.com/clemens/spree_wirecard" target="_blank">Wirecard integration</a>
+        ) along the way.
+      </Entry>
       <Entry
         title="Pernod Ricard Austria"
         link="https://www.pernod-ricard.at/"
         timeSpan="2013 – 2014"
       >
-        Pernod Ricard is the world's 2nd largest spirits producer; I created (concept & development)
+        Pernod Ricard is the world's 2nd largest spirits producer. I created (concept & development)
         their service barkarte.at (defunct) in 2014/15, which was a web tool to create and order
         heavily customizable restaurant & bar menus (including an Adobe InDesign export API). I was
         also responsible for overall project management and coordination with stakeholders (creative
@@ -118,17 +127,17 @@ const IndexPage = () => (
         link="https://nokotime.com/"
         timeSpan="2010/11"
       >
-        Time tracking app / customer support platform; I contributed development to Slash7's time
-        tracking app Noko (then Freckle) and built the backend for the initial prototype of their
-        discontinued Customer Support platform Charm in 2010 and 2011.
+        Noko is a time tracking app and Charm was a customer support platform. I contributed some
+        backend work to Slash7's time tracking app Noko (then Freckle) and built the backend for the
+        initial prototype of their discontinued Customer Support platform Charm in 2010 and 2011.
       </Entry>
       <Entry
         title="Avarteq"
         link="https://avarteq.de/"
         timeSpan="2010 – 2014"
       >
-        I was hired as a consultant and developer as well as a coach and mentor for their junior
-        developers by Avarteq for various projects between 2010 and 2014.
+        Avarteq hired me as a consultant and developer for various projects as well as a coach and
+        mentor for their junior developers between 2010 and 2014.
       </Entry>
       <Entry
         title="betterplace.org"
