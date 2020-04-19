@@ -25,14 +25,25 @@ const IndexPage = () => (
         title="Temedica"
         link="https://temedica.com"
         timeSpan="2016 – Present"
-        desc="Co-Founder, CTO and Managing Director"
-      />
+        role="Co-Founder, CTO and Managing Director"
+      >
+        After more than a decade of freelancing as a consultant and developer, I co-founded my own
+        startup Temedica with the goal of developing sustainable solutions for the healthcare
+        industry. My co-founder Gloria and I grew the company from 2 people in a tiny 20sqm office
+        to ~40 people in 4 years, raising more than 17 million Euros from reputable investors,
+        including <a href="https://www.crunchbase.com/organization/mig-ag">MIG Funds</a> and <a
+        href="https://www.crunchbase.com/organization/santo-venture-capital">Santo Venture
+        Capital</a>.
+      </Entry>
       <Entry
         title="Freelancer"
         link="https://www.railway.at"
         timeSpan="2005 – 2016"
-        desc="Consulting & Development"
-      />
+        role="Consulting & Development"
+      >
+        I did consulting and development for various startups and small to mid-sized companies for
+        more than 10 years. A list of the most relevant projects and clients can be found below.
+      </Entry>
     </Section>
     <Section id="freelancing-projects" title="Freelancing Projects/Clients">
       <Entry
@@ -68,7 +79,7 @@ const IndexPage = () => (
       <Entry
         title="fingerbook"
         link="https://www.fingerbook.com/"
-        timeSpan="June 2012 – December 2013"
+        timeSpan="March 2012 – December 2013"
         desc="Photobooklet creator; I developed all the backend and large parts of the frontend for fingerbook and helped with concept creation and UX from mid 2012 until end of 2013."
       />
       <Entry
@@ -95,6 +106,18 @@ const IndexPage = () => (
         desc="I was hired as a consultant, coach and developer by Avarteq for various projects between 2010 and 2014."
       />
       <Entry
+        title="betterplace.org"
+        link="https://www.betterplace.org/"
+        timeSpan="January 2010"
+        desc="I helped betterplace.org in their challenges to upgrade from Rails 2.1 to 2.3 with a particular focus on getting i18n running properly."
+      />
+      <Entry
+        title="upstream"
+        link="https://upstre.am"
+        timeSpan="2010 – 2011"
+        desc="I helped my friends of upstream out with a couple of projects, including the reading platform PaperC and Twilio competitor Jamii."
+      />
+      <Entry
         title="COMMUNITOR"
         link="https://communitor.com/"
         timeSpan="2007 – 2014"
@@ -104,6 +127,11 @@ const IndexPage = () => (
         title="BESTgroup / advaBEST"
         timeSpan="2008 – 2010"
         desc="I was hired as a developer to work on the adva-cms content management platform (open source) and the advaBEST business platform (proprietary)."
+      />
+      <Entry
+        title="Power4Youth.eu"
+        timeSpan="2006 – 2007"
+        desc="Power4Youth was a project sponsored by SOS Children's Villages to create a community for children brought up in institutions. I built the whole platform start to finish."
       />
     </Section>
     <Section id="open-source" title="Open Source & Blogging">

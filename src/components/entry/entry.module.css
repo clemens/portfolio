@@ -1,19 +1,18 @@
 .wrapper {
   margin-bottom: 30px;
+  font-size: 16px;
+}
+
+.entryRole {
+  margin-top: 0;
+  margin-bottom: 0.5rem;
 }
 
 .entryTitle {
-  border-bottom: 1px solid #3997dc;
-  color: #32404b;
   display: inline-block;
   font-size: 20px;
   font-weight: 700;
   margin-bottom: 10px;
-  text-decoration: none;
-}
-
-.entryTitle:hover {
-  color: #3997dc;
 }
 
 .title {
@@ -28,8 +27,4 @@
   font-style: italic;
   margin-bottom: 0.5rem;
   font-size: 0.8rem;
-}
-
-.desc {
-  font-size: 16px;
 }
