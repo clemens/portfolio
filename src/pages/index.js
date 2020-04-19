@@ -183,8 +183,11 @@ const IndexPage = () => (
       <Entry
         title="adva-cms"
         link="https://github.com/svenfuchs/adva_cms"
-        desc="I was a core developer of the adva-cms content management platform. adva-cms was one of the first larger projects that used Rails Engines and the Cells library (now part of Trailblazer)."
-      />
+      >
+        I was a core developer of the adva-cms content management platform. adva-cms was one of the
+        first larger projects that used Rails Engines and the Cells library (now part of <a
+        href="https://github.com/trailblazer/trailblazer" target="_blank">Trailblazer</a>).
+      </Entry>
       <Entry
         title="Steam"
         link="https://github.com/svenfuchs/steam"
