@@ -48,6 +48,12 @@ const IndexPage = () => (
         desc="Provider of e-mobility solutions; I supported TMH as a lead architect and developer on 2 large-scale projects from 2014 until 2016."
       />
       <Entry
+        title="bergshop.com"
+        link="https://bergshop.com/"
+        timeSpan="2012 – 2014"
+        desc="I built this online shop based on the Spree Commerce platform for a friend."
+      />
+      <Entry
         title="Pernod Ricard Austria"
         link="https://www.pernod-ricard.at/"
         timeSpan="2013 – 2014"
@@ -93,6 +99,38 @@ const IndexPage = () => (
         link="https://communitor.com/"
         timeSpan="2007 – 2014"
         desc="Between 2007 and 2014, I was hired repeatedly by COMMUNITOR as a consultant and developer on various projects, including projects for the Austrian Ministry of Education, beauty.at and auto-motor.at, and contributed concepts and development for their proprietary CMS SiteWare."
+      />
+      <Entry
+        title="BESTgroup / advaBEST"
+        timeSpan="2008 – 2010"
+        desc="I was hired as a developer to work on the adva-cms content management platform (open source) and the advaBEST business platform (proprietary)."
+      />
+    </Section>
+    <Section id="open-source" title="Open Source & Blogging">
+      <Entry
+        title="adva-cms"
+        link="https://github.com/svenfuchs/adva_cms"
+        desc="I was a core developer of the adva-cms content management platform. adva-cms was one of the first larger projects that used Rails Engines and the Cells library (now part of Trailblazer)."
+      />
+      <Entry
+        title="Steam"
+        link="https://github.com/svenfuchs/steam"
+        desc="In 2009, Steam was one of the first tools in the Ruby ecosystem to allow for (headless) JavaScript-enabled testing. I co-authored the tool together with Sven Fuchs."
+      />
+      <Entry
+        title="Ruby i18n"
+        link="https://github.com/ruby-i18n/i18n"
+        desc="I was a core contributor to the Ruby i18n package. Among other things, I contributed the cascading backend."
+      />
+      <Entry
+        title="delocalize"
+        link="https://github.com/clemens/delocalize"
+        desc="Library for parsing localized dates/times and numbers into internationalized formats."
+      />
+      <Entry
+        title="Others"
+        link="https://github.com/clemens?language=&q=&tab=repositories&type=source"
+        desc="There's a handful of other things I've written and experimented with over the years. Check out my GitHub profile for a more exhaustive list."
       />
     </Section>
     <Section id="education" title="Education">
