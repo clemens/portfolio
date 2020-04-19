@@ -2,7 +2,7 @@ import React from "react";
 
 import classes from "./entry.module.css";
 
-const Entry = ({ desc, link = false, title }) => {
+const Entry = ({ desc, timeSpan = null, link = false, title }) => {
   return (
     <div className={classes.wrapper}>
       {link ? (
@@ -12,6 +12,8 @@ const Entry = ({ desc, link = false, title }) => {
       ) : (
         <span className={classes.title}>{title}</span>
       )}
+
+      {timeSpan ? (<p className={classes.timeSpan}>{timeSpan}</p>) : ''}
 
       <p className={classes.desc}>{desc}</p>
     </div>

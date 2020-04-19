@@ -24,6 +24,12 @@
   margin-bottom: 10px;
 }
 
+.timeSpan {
+  font-style: italic;
+  margin-bottom: 0.5rem;
+  font-size: 0.8rem;
+}
+
 .desc {
   font-size: 16px;
 }
