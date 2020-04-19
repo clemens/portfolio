@@ -6,4 +6,4 @@ Personal site built using
 - GatsbyJS
 - Netlify
 
-Forked from https://github.com/ryanFitzgerald/portfolio.
+Forked from https://github.com/ryanFitzgerald/portfolio. Thanks for releasing this as MIT, Ryan!
