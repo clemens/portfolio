@@ -73,9 +73,9 @@ const IndexPage = () => (
         bergshop.com is an online shop selling gear for climbing, mountaineering and other outdoor
         equipment. The shop is operated by a friend of mine and I built their shop based on the
         Spree Commerce platform, authoring 3 Spree plugins (
-          <a href="https://github.com/clemens/spree_campaigns" target="_blank">coupon campaigns</a>, <a
-          href="https://github.com/clemens/spree_paypal_website_payments_standard" target="_blank">PayPal integration</a>, <a
-          href="https://github.com/clemens/spree_wirecard" target="_blank">Wirecard integration</a>
+          <a href="https://github.com/clemens/spree_campaigns" target="_blank" rel="noopener noreferrer">coupon campaigns</a>, <a
+          href="https://github.com/clemens/spree_paypal_website_payments_standard" target="_blank" rel="noopener noreferrer">PayPal integration</a>, <a
+          href="https://github.com/clemens/spree_wirecard" target="_blank" rel="noopener noreferrer">Wirecard integration</a>
         ) along the way.
       </Entry>
       <Entry
@@ -186,7 +186,7 @@ const IndexPage = () => (
       >
         I was a core developer of the adva-cms content management platform. adva-cms was one of the
         first larger projects that used Rails Engines and the Cells library (now part of <a
-        href="https://github.com/trailblazer/trailblazer" target="_blank">Trailblazer</a>).
+        href="https://github.com/trailblazer/trailblazer" target="_blank" rel="noopener noreferrer">Trailblazer</a>).
       </Entry>
       <Entry
         title="Steam"
@@ -211,7 +211,7 @@ const IndexPage = () => (
       <Entry title="Others">
         There's a handful of other things I've written and experimented with over the years. Check
         out <a href="https://github.com/clemens?language=&q=&tab=repositories&type=source" 
-        target="_blank">my GitHub profile</a> for a more exhaustive list.
+        target="_blank" rel="noopener noreferrer">my GitHub profile</a> for a more exhaustive list.
       </Entry>
     </Section>
     <Section id="education" title="Education">

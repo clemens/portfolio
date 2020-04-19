@@ -13,8 +13,8 @@ const Layout = ({ children }) => {
       <Container>
         {children}
         <p className={classes.copyright}>
-          Source: <a href="https://github.com/clemens/portfolio" target="_blank">GitHub</a>;
-          Layout by <a href="https://github.com/ryanFitzgerald/portfolio" target="_blank">Ryan Fitzgerald</a>. Thanks for releasing this under MIT, Ryan!
+          Source: <a href="https://github.com/clemens/portfolio" target="_blank" rel="noopener noreferrer">GitHub</a>;
+          Layout by <a href="https://github.com/ryanFitzgerald/portfolio" target="_blank" rel="noopener noreferrer">Ryan Fitzgerald</a>. Thanks for releasing this under MIT, Ryan!
         </p>
       </Container>
       <div className={classes.blobMain}>
