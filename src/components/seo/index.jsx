@@ -10,8 +10,6 @@ import React from "react";
 import PropTypes from "prop-types";
 import Helmet from "react-helmet";
 
-import socialSrc from "../../images/social.jpg";
-
 const SEO = ({ description, lang, meta, title }) => {
   const { site } = useStaticQuery(
     graphql`
@@ -44,10 +42,6 @@ const SEO = ({ description, lang, meta, title }) => {
         {
           property: `og:title`,
           content: title,
-        },
-        {
-          property: `og:image`,
-          content: `https://ryanfitzgerald.ca${socialSrc}`,
         },
         {
           property: `og:description`,
