@@ -12,12 +12,12 @@ const Header = () => {
         <img
           className={classes.profilePicture}
           src={imgSrc}
-          alt="Ryan Fitzgerald"
+          alt="Clemens Kofler"
         />
       </div>
       <div className={classes.profileContent}>
-        <h1>Ryan Fitzgerald</h1>
-        <h2>Full-Stack Developer based in Toronto, Canada.</h2>
+        <h1>Clemens Kofler</h1>
+        <h2>Experienced technologist and entrepreneur based in Munich, Germany.</h2>
         <Socials />
       </div>
     </div>

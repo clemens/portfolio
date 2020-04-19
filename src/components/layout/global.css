@@ -33,3 +33,13 @@ p {
   line-height: 1.5;
   margin: 0 0 30px;
 }
+
+a {
+  border-bottom: 1px solid #ff8c00;
+  color: #52606d;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #ff8c00;
+}
