@@ -232,7 +232,7 @@ const IndexPage = () => (
         Ruby on Rails, Vue.js, JavaScript (ES6+) and some basics in Laravel and React.
         (And yes, of course I can do jQuery, too.)
       </Entry>
-      <Entry title="Data Stores">PostreSQL, Redis, MySQL, MongoDB</Entry>
+      <Entry title="Data Stores">PostgreSQL, Redis, MySQL, MongoDB</Entry>
     </Section>
     <Section id="imprint" title="Imprint / Impressum">
       <p>
