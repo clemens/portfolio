@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
-    title: `Technologist and Entrepreneur`,
-    description: `Technologist and Entrepreneur based in Munich, Germany.`,
+    title: `Experienced software architect/engineer and Entrepreneur`,
+    description: `Experienced software architect/engineer and Entrepreneur based in Munich, Germany.`,
     author: `@clemensk`,
   },
   plugins: [
