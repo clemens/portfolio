@@ -1,0 +1,13 @@
+.imprint {
+  display: flex;
+  margin-bottom: 2rem;
+}
+
+.imprintLeft {
+  flex: 1;
+  margin-right: 1rem;
+}
+
+.imprintRight {
+  flex: 1;
+}

@@ -6,6 +6,8 @@ import Entry from "../components/entry";
 import Section from "../components/section";
 import SEO from "../components/seo";
 
+import classes from "./index.module.css";
+
 const IndexPage = () => (
   <Layout>
     <Header />
@@ -235,12 +237,22 @@ const IndexPage = () => (
       <Entry title="Data Stores">PostgreSQL, Redis, MySQL, MongoDB</Entry>
     </Section>
     <Section id="imprint" title="Imprint / Impressum">
-      <p>
-        Clemens Kofler<br />
-        Karl-Innerebner-Str. 91a/7<br />
-        6020 Innsbruck<br />
-        Austria
-      </p>
+      <div className={classes.imprint}>
+        <div className={classes.imprintLeft}>
+          <i>Innsbruck address (until June 2020):</i><br />
+          Clemens Kofler<br />
+          Karl-Innerebner-Str. 91a/7<br />
+          6020 Innsbruck<br />
+          Austria
+        </div>
+        <div className={classes.imprintRight}>
+          <i>Munich address (from June 2020):</i><br />
+          Clemens Kofler<br />
+          Freisinger Str. 4<br />
+          85764 Oberschleissheim<br />
+          Germany
+        </div>
+      </div>
       <p>Email: <a href="mailto:mail@clemenskofler.com">mail@clemenskofler.com</a></p>
     </Section>
   </Layout>
