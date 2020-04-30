@@ -28,7 +28,7 @@ const IndexPage = () => (
       <Entry
         title="Temedica"
         link="https://temedica.com"
-        timeSpan="2016 – Present"
+        timeSpan="June 2016 – Present"
         role="Co-Founder, CTO and Managing Director"
       >
         After more than a decade of freelancing as a consultant and developer, I co-founded my own
@@ -42,7 +42,7 @@ const IndexPage = () => (
       <Entry
         title="Freelancer"
         link="https://www.railway.at"
-        timeSpan="2005 – 2016"
+        timeSpan="August 2005 – March 2017"
         role="Consulting & Development"
       >
         I did consulting and development for various startups and small to mid-sized companies for
@@ -50,6 +50,20 @@ const IndexPage = () => (
       </Entry>
     </Section>
     <Section id="freelancing-projects" title="Freelancing Projects/Clients">
+      <Entry
+        title="Ablinger.Garber"
+        link="https://ablingergarber.com/"
+        timeSpan="May 2014 – March 2017"
+      >
+        Ablinger.Garber is a publishing house and printer. I’ve built their custom CRM software including account, contact and campaign management.
+      </Entry>
+      <Entry
+        title="ELSNER Pflege"
+        link="https://elsner-pflege.at/"
+        timeSpan="September 2013 – March 2017"
+      >
+        ELSNER Pflege is an agency brokering 24h nurses. I’ve built their internal management software to help them manage their clients and nurses including contract management, disposition and accounting.
+      </Entry>
       <Entry
         title="CodeShip"
         link="https://codeship.com/"
@@ -232,9 +246,15 @@ const IndexPage = () => (
         title="Languages & Frameworks"
       >
         Ruby on Rails, Vue.js, JavaScript (ES6+) and some basics in Laravel and React.
+        I’ve also recently started exploring TypeScript.
         (And yes, of course I can do jQuery, too.)
       </Entry>
       <Entry title="Data Stores">PostgreSQL, Redis, MySQL, MongoDB</Entry>
+      <Entry title="Other">
+        Test Driven Development, Rapid Prototyping<br />
+        Puppet & Chef (basics)<br />
+        Typing speed 80-90 WPM (English, prose)
+      </Entry>
     </Section>
     <Section id="imprint" title="Imprint / Impressum">
       <div className={classes.imprint}>
