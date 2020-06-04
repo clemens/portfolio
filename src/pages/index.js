@@ -29,11 +29,11 @@ const IndexPage = () => (
         title="Temedica"
         link="https://temedica.com"
         timeSpan="June 2016 – Present"
-        role="Co-Founder, CTO and Managing Director"
+        role="Tech Co-Founder"
       >
         After more than a decade of freelancing as a consultant and developer, I co-founded my own
         startup Temedica with the goal of developing sustainable solutions for the healthcare
-        industry. My co-founder Gloria and I grew the company from 2 people in a tiny 20sqm office
+        industry and served as its CTO until May 2020. My co-founder Gloria and I grew the company from 2 people in a tiny 20sqm office
         to ~40 people in 4 years, raising more than 17 million Euros from reputable investors,
         including <a href="https://www.crunchbase.com/organization/mig-ag">MIG Funds</a> and <a
         href="https://www.crunchbase.com/organization/santo-venture-capital">Santo Venture
