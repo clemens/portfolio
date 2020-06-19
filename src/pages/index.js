@@ -245,8 +245,8 @@ const IndexPage = () => (
       <Entry
         title="Languages & Frameworks"
       >
-        Ruby on Rails, Vue.js, JavaScript (ES6+) and some basics in Laravel and React.
-        I’ve also recently started exploring TypeScript.
+        Ruby on Rails, Vue.js, JavaScript (ES6+) and some solid basics in Laravel, React and React Native.
+        I’ve also recently started exploring TypeScript in more depth.
         (And yes, of course I can do jQuery, too.)
       </Entry>
       <Entry title="Data Stores">PostgreSQL, Redis, MySQL, MongoDB</Entry>
