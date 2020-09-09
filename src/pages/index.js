@@ -3,6 +3,8 @@ import React from "react";
 import Header from "../components/header";
 import Layout from "../components/layout";
 import Entry from "../components/entry";
+import Roles from "../components/roles";
+import Role from "../components/role";
 import Section from "../components/section";
 import SEO from "../components/seo";
 
@@ -26,14 +28,29 @@ const IndexPage = () => (
     </Section>
     <Section id="experience" title="Experience">
       <Entry
+        title="DataGuard"
+        link="https://dataguard.com"
+        timeSpan="September 2020 – Present"
+        role="Senior Developer"
+      >
+        I joined privacy and legal tech company DataGuard in September 2020. As a Senior Developer,
+        I will help grow their Software-as-a-Service platform that assists their clients in
+        managing privacy, compliance and IT security.
+      </Entry>
+      <Entry
         title="Temedica"
         link="https://temedica.com"
         timeSpan="June 2016 – Present"
-        role="Tech Co-Founder"
+        role="Tech Co-Founder, Chief Technology Officer & Managing Director"
       >
+        <Roles>
+          <Role label="Tech Co-Founder (June 2016 – Present)" />
+          <Role label="Chief Technology Officer & Managing Directory (June 2016 – May 2020)" />
+        </Roles>
+
         After more than a decade of freelancing as a consultant and developer, I co-founded my own
         startup Temedica with the goal of developing sustainable solutions for the healthcare
-        industry and served as its CTO until May 2020. My co-founder Gloria and I grew the company from 2 people in a tiny 20sqm office
+        industry and served as its CTO and Managing Director until May 2020. My co-founder Gloria and I grew the company from 2 people in a tiny 20sqm office
         to ~40 people in 4 years, raising more than 17 million Euros from reputable investors,
         including <a href="https://www.crunchbase.com/organization/mig-ag">MIG Funds</a> and <a
         href="https://www.crunchbase.com/organization/santo-venture-capital">Santo Venture
