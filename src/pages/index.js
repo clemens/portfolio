@@ -45,7 +45,7 @@ const IndexPage = () => (
       >
         <Roles>
           <Role label="Tech Co-Founder (June 2016 – Present)" />
-          <Role label="Chief Technology Officer & Managing Directory (June 2016 – May 2020)" />
+          <Role label="Chief Technology Officer & Managing Director (June 2016 – May 2020)" />
         </Roles>
 
         After more than a decade of freelancing as a consultant and developer, I co-founded my own
