@@ -31,11 +31,13 @@ const IndexPage = () => (
         title="DataGuard"
         link="https://dataguard.com"
         timeSpan="September 2020 – Present"
-        role="Senior Developer"
+        role="Staff Software Engineer"
       >
-        I joined privacy and legal tech company DataGuard in September 2020. As a Senior Developer,
-        I will help grow their Software-as-a-Service platform that assists their clients in
-        managing privacy, compliance and IT security.
+        <Roles>
+          <Role label="Staff Software Engineer (March 2022 – Present)" />
+          <Role label="Senior Software Engineer (September 2020 – February 2022)" />
+        </Roles>
+        I joined privacy and legal tech company DataGuard in September 2020. As a Staff Software Engineer, I'm helping to grow their Software-as-a-Service platform that assists their customers in managing privacy, information security and compliance.
       </Entry>
       <Entry
         title="Temedica"
