@@ -31,7 +31,7 @@ const IndexPage = () => (
         title="DataGuard"
         link="https://dataguard.com"
         timeSpan="September 2020 – Present"
-        role="Staff Software Engineer"
+        role="Engineering Manager"
       >
         <Roles>
           <Role label="Engineering Manager (August 2022 – Present)" />
