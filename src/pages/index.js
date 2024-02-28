@@ -31,23 +31,25 @@ const IndexPage = () => (
         title="DataGuard"
         link="https://dataguard.com"
         timeSpan="September 2020 – Present"
-        role="Engineering Manager"
+        role="Principal Engineer"
       >
         <Roles>
+          <Role label="Principal Engineer (February 2024 – Present)" />
+          <Role label="Director of Engineering (August 2023 – February 2024)" />
           <Role label="Engineering Manager (August 2022 – Present)" />
           <Role label="Staff Software Engineer (March 2022 – August 2022)" />
           <Role label="Senior Software Engineer (September 2020 – February 2022)" />
         </Roles>
-        I joined privacy and legal tech company DataGuard in September 2020. As an Engineering, I'm responsible for 12 people, distributed across 3 teams (Backoffice, Platform and Quality Assurance).
+        I joined privacy and legal tech company DataGuard in September 2020. In my current role as a Principal Engineer, I contribute and/or lead some of the most critical projects and initiatives across the whole company.
       </Entry>
       <Entry
         title="Temedica"
         link="https://temedica.com"
         timeSpan="June 2016 – Present"
-        role="Tech Co-Founder, Chief Technology Officer & Managing Director"
+        role="Tech Co-Founder"
       >
         <Roles>
-          <Role label="Tech Co-Founder (June 2016 – Present)" />
+          <Role label="Tech Co-Founder (June 2016 – Present; no operational involvement since September 2020)" />
           <Role label="Chief Technology Officer & Managing Director (June 2016 – May 2020)" />
         </Roles>
 
