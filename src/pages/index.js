@@ -36,7 +36,7 @@ const IndexPage = () => (
         <Roles>
           <Role label="Principal Engineer (February 2024 – Present)" />
           <Role label="Director of Engineering (August 2023 – February 2024)" />
-          <Role label="Engineering Manager (August 2022 – Present)" />
+          <Role label="Engineering Manager (August 2022 – August 2023)" />
           <Role label="Staff Software Engineer (March 2022 – August 2022)" />
           <Role label="Senior Software Engineer (September 2020 – February 2022)" />
         </Roles>
