@@ -16,7 +16,7 @@ const IndexPage = () => (
     <SEO title="Clemens Kofler" />
     <Section id="about" title="About Me">
       <p>
-        I'm a seasoned software architect/engineer and entrepreneur with more than 15 years of
+        I'm a seasoned software architect/engineer and entrepreneur with ~20 years of
         professional experience in building solutions for various startups (including my own) as well as
         small and mid-sized companies.
       </p>
@@ -28,19 +28,30 @@ const IndexPage = () => (
     </Section>
     <Section id="experience" title="Experience">
       <Entry
+        title="Liechtenstein Life / Prosperity Solutions"
+        link="https://liechtensteinlife.com/en-DE/markets/de/partner/technology"
+        timeSpan="October 2024 – Present"
+        role="Staff Software Engineer"
+      >
+        <Roles>
+          <Role label="Staff Software Engineer (October 2024 – Present)" />
+        </Roles>
+        I joined Liechtenstein Life / Prosperity Solutions in October 2024 as a Staff Software Engineer.
+      </Entry>
+      <Entry
         title="DataGuard"
         link="https://dataguard.com"
-        timeSpan="September 2020 – Present"
+        timeSpan="September 2020 – September 2024"
         role="Principal Engineer"
       >
         <Roles>
-          <Role label="Principal Engineer (February 2024 – Present)" />
+          <Role label="Principal Engineer (February 2024 – September 2024)" />
           <Role label="Director of Engineering (August 2023 – February 2024)" />
           <Role label="Engineering Manager (August 2022 – August 2023)" />
           <Role label="Staff Software Engineer (March 2022 – August 2022)" />
           <Role label="Senior Software Engineer (September 2020 – February 2022)" />
         </Roles>
-        I joined privacy and legal tech company DataGuard in September 2020. In my current role as a Principal Engineer, I contribute and/or lead some of the most critical projects and initiatives across the whole company.
+        I joined privacy and legal tech company DataGuard in September 2020. In tenure until September 2024, I worked in various individual contributor as well as management roles, with a particular focus on high impact and/or crossfunctional initiatives.
       </Entry>
       <Entry
         title="Temedica"
